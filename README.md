@@ -21,56 +21,56 @@ Follow these steps to set up and run the application:
 
    Start by cloning the repository to your local machine:
 
-   \`\`\`bash
+   ```bash
    git clone git@github.com:danyal36/Caremerge.git
    cd Caremerge
-   \`\`\`
+   ```
 
 2. **Install Dependencies:**
 
    Install the required Node.js dependencies:
 
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Run the Server:**
 
    To start the server using Async implementation use the following command:
 
-   \`\`\`bash
+   ```bash
    node usingAsync.js
-   \`\`\`
+   ```
 
-   This will start the server on port \`3000\`.
+   This will start the server on port `3000`.
 
    To start the server using Plain node.js callback implementation use the following command:
 
-   \`\`\`bash
+   ```bash
    node usingPlain.js
-   \`\`\`
+   ```
 
-   This will start the server on port \`3000\`.
+   This will start the server on port `3000`.
    
    To start the server using Promises implementation use the following command:
 
-   \`\`\`bash
+   ```bash
    node usingPlain.js
-   \`\`\`
+   ```
 
-   This will start the server on port \`3000\`.
+   This will start the server on port `3000`.
 
 4. **Access the Application:**
 
    Open your web browser and navigate to the following URL to access the application:
 
-   \`\`\`
+   ```
    http://localhost:3000/I/want/title?address=google.com
-   \`\`\`
+   ```
 
 5. **Stopping the Server:**
 
-   To stop the server, press \`Ctrl+C\` in the terminal.
+   To stop the server, press `Ctrl+C` in the terminal.
 
 ## Additional Information
 
